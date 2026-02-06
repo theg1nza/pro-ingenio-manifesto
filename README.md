@@ -10,3 +10,7 @@ In fact, pushing that thought to its limits reveal that engineering as a practic
 Thus engineering is the gathering and in-context application of _ingenium_.
 
 In the light 
+
+
+## Other sources
+https://www.computer.org/education/code-of-ethics
