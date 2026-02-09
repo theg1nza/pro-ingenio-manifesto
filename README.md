@@ -7,8 +7,13 @@ It is to the end of continuous growth of total _ingenium_ that the term _pro ing
 Unlike other fields of engineering, software engineering does not require procuring massive amounts of concrete, titanium or sodium hydroxide. It does not require million-dollar measuring devices thrown off by neighbouring vibrations. Software engineering can be fully learned and applied on a ten-year-old repurposed office desktop computer, and the experience gained with such a setup may very well be just as valuable as if the engineer used the latest hardware.
 In fact, as previously highlighted, engineering as a practice is not necessarily linked to the materials and tools used; it is a broad collection of knowledge and methodologies applicable to technical tasks. In a sense, all disciplines of engineering could participate in _pro ingenio_ work, but the (somewhat) trivial material requirements of software engineering make it very simple to share _ingenium_.
 
-# Why is pro ingenio work important?
+## Why is pro ingenio work important?
+todo
 
+## Concretely, what does _pro ingenio_ work look like?
+As stated previously, it is very varied. The Canadian Bar Association recommends its members give away 50 hours per year (representing ~3% of billable hours) to _pro bono_ cases, and that seems like a reasonable expectation.
+Here are some examples:
+- Helping a local non-profit with their 
 
 
 ## Other sources
