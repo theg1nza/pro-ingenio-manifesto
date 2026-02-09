@@ -11,9 +11,11 @@ In fact, as previously highlighted, engineering as a practice is not necessarily
 todo
 
 ## Concretely, what does _pro ingenio_ work look like?
-As stated previously, it is very varied. The Canadian Bar Association recommends its members give away 50 hours per year (representing ~3% of billable hours) to _pro bono_ cases, and that seems like a reasonable expectation.
+As stated previously, it is very varied. As an informative baseline, the Canadian Bar Association recommends its members give away 50 hours per year (representing ~3% of billable hours) to _pro bono_ cases. _Pro ingenio_ work should be done if an individual can trust that their acquired skillset is relevant to the task at hand. 
 Here are some examples:
-- Helping a local non-profit with their 
+- Helping a local non-profit manage their IT equipment, automating some tasks and advising them on their software stack.
+- Solving issues on open-source projects by contributing high-quality code and documentation.
+- 
 
 
 ## Other sources
