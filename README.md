@@ -18,7 +18,7 @@ Here are some examples in software engineering:
 - Solving issues on open-source projects by contributing high-quality code and documentation.
 - Making introductory or in-depth learning resources, and sharing them with the online community.
 - Picking back up other _pro ingenio_ work to augment it, document it or modify it so it's more aligned with actual needs.
-- Assisting other engineers with career guidance, offering montorship and challenging them to become more technically proficient and better professionals.
+- Assisting other engineers with career guidance, offering mentorship and challenging them to become more technically proficient and better professionals.
 
 ## Other sources
 https://www.computer.org/education/code-of-ethics
